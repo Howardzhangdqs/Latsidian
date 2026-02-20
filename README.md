@@ -1,6 +1,11 @@
-# Latsidian - LaTeX Theme for Obsidian
+<div align="center">
+  <h1>Latsidian - LaTeX Theme for Obsidian</h1>
+  <p><a href="https://github.com/Howardzhangdqs/latsidian-source">Source Code Repo</a></p>
+</div>
 
 A clean, academic LaTeX-style theme for Obsidian. Perfect for mathematical writing, technical documentation, and Chinese content.
+
+![](./light-simple.png)
 
 ## Key Features
 
@@ -40,7 +45,7 @@ Standard academic elements supported:
 
 ## Installation
 
-1. Download the latest release from the [Releases](https://github.com/latsidian/latsidian/releases) page
+1. Download the latest release from the [Releases](https://github.com/Howardzhangdqs/latsidian) repo
 2. Extract to your vault's `.obsidian/themes/` folder
 3. Enable in **Settings → Appearance → Themes**
 
